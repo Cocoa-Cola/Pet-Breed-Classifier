@@ -1,0 +1,14 @@
+CNN Model Architecture: resnet
+Number of Images: 40
+Number of Dog Images: 30
+Number of Not-a-Dog Images: 10
+% Match (optional): 82.5
+% Correct Dogs: 100.0
+% Correct Breed: 90.0
+% Correct Not-a-Dog: 90.0
+Mislabeled Pet Label: cat Mislabeled Classifier Label: norwegian elkhound, elkhound
+Mislabeled Pet Label: golden retriever Mislabeled Classifier Label: leonberg
+Mislabeled Pet Label: beagle Mislabeled Classifier Label: walker hound, walker foxhound
+Mislabeled Pet Label: great pyrenees Mislabeled Classifier Label: kuvasz
+
+** Total Elapsed Runtime: 0:0:44

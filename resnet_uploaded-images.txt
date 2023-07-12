@@ -1,0 +1,12 @@
+CNN Model Architecture: resnet
+Number of Images: 4
+Number of Dog Images: 2
+Number of Not-a-Dog Images: 2
+% Match (optional): 25.0
+% Correct Dogs: 100.0
+% Correct Breed: 0.0
+% Correct Not-a-Dog: 100.0
+dog golden retriever
+dog golden retriever
+
+** Total Elapsed Runtime: 0:0:4
