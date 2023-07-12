@@ -1,0 +1,12 @@
+CNN Model Architecture: vgg
+Number of Images: 40
+Number of Dog Images: 30
+Number of Not-a-Dog Images: 10
+% Match (optional): 87.5
+% Correct Dogs: 100.0
+% Correct Breed: 93.33333333333333
+% Correct Not-a-Dog: 100.0
+Mislabeled Pet Labelbeagle Mislabeled Classifier Labelwalker hound, walker foxhound
+Mislabeled Pet Labelgreat pyrenees Mislabeled Classifier Labelkuvasz
+
+** Total Elapsed Runtime: 0:1:26
